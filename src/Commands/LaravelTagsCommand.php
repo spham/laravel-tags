@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Spham\LaravelTags\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelTagsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-tags';
 
     public $description = 'My command';
 
